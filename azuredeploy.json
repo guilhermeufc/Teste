@@ -4,7 +4,7 @@
   "parameters": {
     "companyTla": {
       "type": "string",
-      "defaultValue": "llk"
+      "defaultValue": "llk",
       "metadata": {
         "description": "This is a Three Letter Acronym for your company name. 'CON' for Contoso for example."
       }
@@ -42,14 +42,14 @@
     },
     "sqlAdministratorLogin": {
       "type": "string",
-      "defaultValue": "sqladmin"
+      "defaultValue": "sqladmin",
       "metadata": {
         "description": "The username of the SQL Administrator"
       }
     },
     "sqlAdministratorLoginPassword": {
       "type": "securestring",
-      "defaultValue": "P@ssw0rd!!!"
+      "defaultValue": "P@ssw0rd!!!",
       "metadata": {
         "description": "The password for the SQL Administrator"
       }
