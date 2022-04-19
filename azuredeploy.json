@@ -4,7 +4,7 @@
   "parameters": {
     "companyTla": {
       "type": "string",
-      "defaultValue": "llk",
+      "defaultValue": "LLK",
       "metadata": {
         "description": "This is a Three Letter Acronym for your company name. 'CON' for Contoso for example."
       }
